@@ -1,0 +1,6 @@
+/MySimpleBot/Properties/PublishProfiles
+/MySimpleBot/Properties/webjob-publish-settings.json
+/MySimpleBot/*.user
+/MySimpleBot/*.csproj
+bin
+obj
